@@ -16,7 +16,7 @@
     "/content/danlanding/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/wknd-universal/",
-    "/content/dam/wknd-universal/"
+    "/content/danlanding/",
+    "/content/dam/danlanding/"
   ]
 }
